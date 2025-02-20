@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Словарь сообщит</string>
+    <string name="channel_name">Словарь</string>
+    <string name="channel_description">Словарное сообщение</string>
+    <string name="word">Слово</string>
+    <string name="about">О приложении</string>
+    <string name="about_description">Словарь сообщит - это приложение для отображения значения выбранного слова в виде
+        уведомление из всех приложений, поддерживающих выделение текста. Приложение работает в автономном режиме и использует Викисловарь в качестве базы данных для значений.
+        Викисловарь - это проект с открытым исходным кодом, без которого это приложение не существовало бы. Логотип стал возможен благодаря свободной лицензии Apache
+        лицензии на значки материального дизайна. Спасибо проекту WikDict. Спасибо всем проектам с открытым исходным кодом, которые помогли в разработке приложения
+    </string>
+    <string name="license">Лицензии</string>
+    <string name="process_text_label">Значение</string>
+    <string name="preference_file_key">notification_dictionary</string>
+    <string name="default_database">default_database</string>
+    <string name="selected_language">selected_language</string>
+    <string name="search">Поиск</string>
+    <string name="manage">Организовать</string>
+    <string name="change_confirmation">Вы хотите изменить язык и скачать базу данных, если она отсутствует?</string>
+    <string name="confirmation">Язык (Language)</string>
+    <string name="action_settings">Настройки</string>
+    <string name="history">История</string>
+    <string name="favourite">Избранное</string>
+</resources>
